@@ -1,0 +1,24 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  canvas {
+    display: block;
+  }
+  
+  .orange {
+    color: #bf6a09;
+    overflow: hidden;
+  }
+  
+  .quicklinks__link-content {
+      position: relative;
+      margin: 13px 20px;
+      padding: 4px 0;
+      background-color: aquarine;
+  }
+  
+  .emphasized {
+    font-style: italic;
+    color: purple;
